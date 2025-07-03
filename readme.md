@@ -1,4 +1,4 @@
-# 🗳️ Polling System API (Node.js + Express + MongoDB)
+# Polling System API (Node.js + Express + MongoDB)
 
 This is a simple polling system built using **Node.js**, **Express**, and **MongoDB**. It allows users to:
 
@@ -8,7 +8,7 @@ This is a simple polling system built using **Node.js**, **Express**, and **Mong
 
 ---
 
-## 📦 Technologies Used
+## Technologies Used
 
 - Node.js
 - Express
@@ -19,9 +19,7 @@ This is a simple polling system built using **Node.js**, **Express**, and **Mong
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/VidhunKr/polling_System
+```bash 
+npm Start
